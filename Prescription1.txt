@@ -1,0 +1,1 @@
+Patient: John Smith Prescription:75mg Aspirin 2 times a day   .
